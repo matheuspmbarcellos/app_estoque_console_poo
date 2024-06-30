@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Maça",
+    "descricao": "Maça da turma da mônica",
+    "preco": 2.5,
+    "quantidade": 20
+  },
+  {
+    "id": 2,
+    "nome": "Banana",
+    "descricao": "Nanica",
+    "preco": 1.5,
+    "quantidade": 30
+  },
+  {
+    "id": 1719717576,
+    "nome": "Ovo",
+    "descricao": "Ovo vermelho",
+    "preco": 17.5,
+    "quantidade": 30
+  }
+]
